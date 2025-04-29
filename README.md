@@ -1,3 +1,3 @@
-# Mi primer proyecto git
+# Mi primer proyecto GIT
 
-Es un proyecto de prueba para entender GIT.
+Este proyecto es una prueba GIT
